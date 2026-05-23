@@ -35,6 +35,25 @@
   </tr>
 </table>
 
+
+## Quick Start
+
+### Installation
+
+```bash
+pip install memento-agents
+```
+
+### Basic Usage
+
+```python
+from memento import MementoAgent
+
+agent = MementoAgent()
+result = agent.run("Your task here")
+print(result)
+```
+
 ## 📰 News
 - [2025.10.05] We’re excited to announce that our parametric Case-Based Reasoning inference code is now officially open-sourced! 🎉
 - [2025.09.05] We’ve added support to deploy a local LLM as the executor using vLLM, please see client/agent_local_server.py. 🎉
