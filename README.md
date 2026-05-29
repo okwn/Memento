@@ -454,3 +454,5 @@ We welcome contributions! Please see our contributing guidelines for:
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Agent-on-the-Fly/Memento&type=Date)](https://www.star-history.com/#Agent-on-the-Fly/Memento&Date)
+
+- Documentation updated for clarity
