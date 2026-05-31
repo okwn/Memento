@@ -46,7 +46,7 @@ async def crawl_page(url: str) -> str:
 
     This is often used as a **follow-up** step after a general-purpose
     search tool (e.g., via SearxNG), when the agent needs to "click through"
-    to an individual link and analyze its full content in a readable form.
+    to an individual link and analyze it's full content in a readable form.
 
     Args:
         url (str): A valid, fully-qualified URL (http:// or https://) that

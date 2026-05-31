@@ -31,7 +31,7 @@ META_SYSTEM_PROMPT = (
     "high‑level question. **First**: break the problem into a *minimal sequence*\n"
     "of executable tasks. Reply ONLY in JSON with the schema:\n"
     "{ \"plan\": [ {\"id\": INT, \"description\": STRING} … ] }\n\n"
-    "After each task is executed by the EXECUTOR you will receive its result.\n"
+    "After each task is executed by the EXECUTOR you will receive it's result.\n"
     "Please carefully consider the descriptions of the time of web pages and events in the task, and take these factors into account when planning and giving the final answer.\n"
     "If the final answer is complete, output it with the template:\n"
     "FINAL ANSWER: <answer>\n\n" \
